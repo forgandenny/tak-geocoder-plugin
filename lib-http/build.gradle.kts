@@ -2,6 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
   id("convention-android-lib")
+  id("atak-takdev-plugin")
   id("convention-atak-sdk")
   id("convention-dagger")
   id("convention-style")
